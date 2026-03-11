@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 小说原文和输出文件（不需要上传到仓库）
+*.txt
+!requirements.txt
+*_EN.txt
+*_ShortDrama*.md
+分析报告*.md
+修改后*.md
+术语表*.csv
+
+# 其他
+*.log
